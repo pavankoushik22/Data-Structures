@@ -1,0 +1,8 @@
+1)Maximum no.of nodes at particular level = 2**(level-1)
+2)Maximum no.of nodes in a tree with n levels = 2**n - 1    (if height of root is 0 then it is 2**(n+1) -1)
+3)Binary tree with n nodes
+   minimum possible height = log(n+1)
+4)Binary tree with L leaves has levels = log(L) + 1
+5)No.of leaf nodes = 1 + (I)
+  (handshaking lemma principle: L = (k-1)(I) + 1)
+ 
